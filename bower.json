@@ -1,0 +1,28 @@
+{
+  "name": "Take a Shot",
+  "version": "0.0.1",
+  "main": "js/app.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "hammerjs": "~1.0.5"
+  },
+  "description": "A encouragement application helps users to be a better man.",
+  "keywords": [
+    "encouragement",
+    "mobile",
+    "canvas"
+  ],
+  "authors": [
+    "Meathill <meathill@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://works.meathill.com/take-a-shot/",
+  "private": true
+}

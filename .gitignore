@@ -1,0 +1,6 @@
+.idea
+bower_components
+
+css/*.css
+js/*.js
+js/min
